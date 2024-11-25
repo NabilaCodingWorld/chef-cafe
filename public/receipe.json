@@ -1,0 +1,62 @@
+[
+  {
+    "receipe_id": 1,
+    "img": "https://www.changonoodles.com/admin/images/blog/Blog-32875_fresh-pasta-with-hearty-bolognese-parmesan-cheese-generated-by-ai-min.jpg",
+    "receipe_name": "Chicken Salad",
+    "description": "Combine cooked chicken, mayo, celery, grapes, and nuts. Mix, season, and serve!",
+    "ingredients": [
+      "400 g spaghetti",
+      "300 g ground beef",
+      "1 cup tomato sauce",
+      "2 cloves garlic",
+      "1/2 cup onions"
+    ],
+    "preparing_time": "40 min",
+    "calories": "450 calories"
+  },
+  {
+    "receipe_id": 2,
+    "img": "https://www.changonoodles.com/admin/images/blog/Blog-32875_fresh-pasta-with-hearty-bolognese-parmesan-cheese-generated-by-ai-min.jpg",
+    "receipe_name": "myChicken Salad",
+    "description": "Combine cooked chicken, mayo, celery, grapes, and nuts. Mix, season, and serve!",
+    "ingredients": [
+      "400 g spaghetti",
+      "300 g ground beef",
+      "1 cup tomato sauce",
+      "2 cloves garlic",
+      "1/2 cup onions"
+    ],
+    "preparing_time": "40 min",
+    "calories": "450 calories"
+  },
+  {
+    "receipe_id": 3,
+    "img": "https://www.changonoodles.com/admin/images/blog/Blog-32875_fresh-pasta-with-hearty-bolognese-parmesan-cheese-generated-by-ai-min.jpg",
+    "receipe_name": "Chicken Salad",
+    "description": "Combine cooked chicken, mayo, celery, grapes, and nuts. Mix, season, and serve!",
+    "ingredients": [
+      "400 g spaghetti",
+      "300 g ground beef",
+      "1 cup tomato sauce",
+      "2 cloves garlic",
+      "1/2 cup onions"
+    ],
+    "preparing_time": "40 min",
+    "calories": "450 calories"
+  },
+  {
+    "receipe_id": 4,
+    "img": "https://www.changonoodles.com/admin/images/blog/Blog-32875_fresh-pasta-with-hearty-bolognese-parmesan-cheese-generated-by-ai-min.jpg",
+    "receipe_name": "Chicken Salad",
+    "description": "Combine cooked chicken, mayo, celery, grapes, and nuts. Mix, season, and serve!",
+    "ingredients": [
+      "400 g spaghetti",
+      "300 g ground beef",
+      "1 cup tomato sauce",
+      "2 cloves garlic",
+      "1/2 cup onions"
+    ],
+    "preparing_time": "40 min",
+    "calories": "450 calories"
+  }
+]
